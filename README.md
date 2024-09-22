@@ -13,4 +13,4 @@ Digunakan untuk menyimpan jurnal dan resume untuk mata kuliah Riset Informatika
 | No | Judul | Jenis Penelitian (Menurut Sifat Permasalahan) | Review |
 | -- | ----- | ----------------------------------- | ------ |
 | 1  | [Clustering Objectives in Wireless Sensor Networks: A Survey and Research Direction Analysis](https://doi.org/10.1016/j.comnet.2020.107376) | Penelitian Eksperimental | [Resume Jurnal Riset Informatika 1 - 084](https://github.com/marchelp/Riset-Informatika/blob/main/Resume%20Jurnal%20Riset%20Informatika%201%20-%20084.pdf) |
-| 2  |
+| 2  | [ML-SAFT: A machine learning framework for PCP-SAFT parameter prediction](https://doi.org/10.1016/j.cej.2024.151999) | Penelitian Eksperimental | [Resume Jurnal Riset Informatika 1 - 084](https://github.com/marchelp/Riset-Informatika/blob/main/Resume%20Jurnal%20Riset%20Informatika%201%20-%20084.pdf) |
