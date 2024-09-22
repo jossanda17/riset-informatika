@@ -1,5 +1,4 @@
 # Riset-Informatika
-Digunakan untuk menyimpan jurnal dan resume untuk mata kuliah Riset Informatika
 
 - Nama    : Jozanda Aulia
 - NPM     : 21081010209
