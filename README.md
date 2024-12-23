@@ -4,6 +4,8 @@
 - NPM     : 21081010209
 - Matkul  : Riset informatika C081
 
+- link presentasi : https://drive.google.com/file/d/1TP0RaDxGMwsPTOb0JWMWVCaJsHkLwYNu/view?usp=sharing
+
 ### Jenis Penelitian Menurut Sifat Permasalahannya
 ![image](https://github.com/user-attachments/assets/4012dae4-3002-40f4-80b4-ec75553d1982)
 
